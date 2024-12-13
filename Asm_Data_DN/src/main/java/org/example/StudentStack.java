@@ -64,4 +64,4 @@ public class StudentStack {
             current = current.next; // Move to the next node
         }
     }
-}                                       // đây cũng là đoạn code ADT Của mình trong ứng dụng quản lý sinh viên. Bạn không cần phân tích, mà chỉ chần viết lại đoạn code này thôi.
+}                                       
